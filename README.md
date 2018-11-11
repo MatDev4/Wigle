@@ -4,7 +4,7 @@
 Wigle is a powerful, configurable and multipurpose Discord bot, made using the [discord.js](https://discord.js.org/) library for the Discord API.
 
 [![Wigle](https://img.shields.io/badge/Wigle-1.0.0-red.svg)](https://unix.tk)
-![Discord JS](https://img.shields.io/badge/discord.js-11.4.2--dev-orange.svg)
+![Discord JS](https://img.shields.io/badge/discord.js-11.4.2-orange.svg)
 [![Node JS](https://img.shields.io/badge/node.js-10.13.0-brightgreen.svg)](https://nodejs.org/en/)
 [![Discord Server](https://discordapp.com/api/guilds/438860643685367809/embed.png)](https://discord.gg/umphAe2)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/stormfoll)
